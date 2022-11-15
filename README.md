@@ -15,8 +15,8 @@
 ### Basic Data Types
 
 - [List Comprehensions](python/list_comprehensions.py)
-- [Find the Runner-Up Score!]()
-- [Nested Lists]()
-- [Finding the percentage]()
-- [Lists]()
-- [Tuples]()
+- [Find the Runner-Up Score!](python/find_second_maximum_number_in_a_list.py)
+- [Nested Lists](python/nested_list.py)
+- [Finding the percentage](python/finding_the_percentage.py)
+- [Lists](python/python_lists.py)
+- [Tuples](python/python_tuples.py)
